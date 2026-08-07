@@ -1,11 +1,11 @@
 # Default repository owner
-* @CRSD-Lau
+* @ranpong121-afk
 
 # High-risk administration, security, dependency, and release surfaces
-/.github/ @CRSD-Lau
-/SECURITY.md @CRSD-Lau
-/COMPLIANCE.md @CRSD-Lau
-/LICENSES/ @CRSD-Lau
-/build/windows/ @CRSD-Lau
-/requirements*.txt @CRSD-Lau
-/requirements-locks/ @CRSD-Lau
+/.github/ @ranpong121-afk
+/SECURITY.md @ranpong121-afk
+/COMPLIANCE.md @ranpong121-afk
+/LICENSES/ @ranpong121-afk
+/build/windows/ @ranpong121-afk
+/requirements*.txt @ranpong121-afk
+/requirements-locks/ @ranpong121-afk
